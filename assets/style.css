@@ -6,6 +6,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   background: #f4f4f4;
+  /* background: url(/assets/images/bg.jpeg) */
   font-size: 17px;
   line-height: 1.6;
   display: flex;
@@ -16,16 +17,20 @@ body {
 }
 
 .button {
-  background: #428bca;
+  background: darkblue;
   padding: 1em 2em;
   color: #fff;
   border: 0;
   border-radius: 5px;
   cursor: pointer;
+  width: 15%;
+  border-radius: 10px;
+  padding: 10px;
 }
 
 .button:hover {
-  background: #3876ac;
+  background:yellowgreen;
+  color: #000;
 }
 
 .modal {
@@ -95,4 +100,25 @@ body {
   to {
     opacity: 1;
   }
+}
+
+.form {
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  border: 0px;
+ }
+
+ .form-input {
+  display: block;
+  width: 95%; 
+  border-radius: 10px;
+  background-color: white;
+  margin-bottom: 30px;
+  padding: 10px;
+  border-color: black;
+}
+
+.subscribe {
+  text-align: center;
 }
