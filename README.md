@@ -7,7 +7,7 @@ Learning how to use modal.
 Required form and all field must be inputed. 
 
 # Project screenshoot
-![This is an alt text](/readmeimg.PNG "This is a sample logo")
+![This is an alt text](/assets/images/Capture.PNG "This is a sample logo")
 
 ## Link
 (https://github.com/Oluwafunmilol/modal-assignment.git)
